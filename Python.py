@@ -70,7 +70,6 @@ print('\n')
 print('EX2:')
 string = "人易科技:上 機 測 驗 - 演算法"
 def strQ2B(ustring):
-    """把字串全形轉半形"""
     ss = []
     for s in ustring:
         rstring = ""
