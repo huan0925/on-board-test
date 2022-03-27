@@ -10,6 +10,7 @@ class car{
         $speed = "fast";
         echo $speed;
     }
+    
     function easy_to_move(){
         $easy_to_move = "easy";
         echo $easy_to_move;
